@@ -57,6 +57,3 @@ I know it's challenging at times, but remember, the race to success is not alway
 <a href="https://www.hackerrank.com/profile/strikepunchk"> 
   <img src="https://github.com/seniorfullstack-dev/portfolio_full_stack/blob/modify_layout_dev/1.png" width="880" height="480" alt="HackerRank" />
 </a>
-  
-   
-![Uploading image.png…]()
