@@ -2,7 +2,7 @@
 <h1 color='red' align="center">
   Wizard of Full Stack
 </h1>
-🏆As a senior full stack developer,🏆
+🏆As a senior full stack developer,🏆<br/>
 I have dedicated myself to the world of programming, constantly expanding my skillset and knowledge. 
 💯With a thirst for knowledge and a passion for creation, I am constantly seeking new challenges and expanding my skills. Learning is my truest companion, as I delve into the depths of technology, unraveling its secrets one line at a time.
 
