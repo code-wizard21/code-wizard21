@@ -3,7 +3,7 @@
   Wizard of Full Stack
 </h1>
 🏆As a senior full stack developer,🏆<br/>
-I have dedicated myself to the world of programming, constantly expanding my skillset and knowledge. 
+I have dedicated myself to the world of programming, constantly expanding my skillset and knowledge. <br/>
 💯With a thirst for knowledge and a passion for creation,<br/> I am constantly seeking new challenges and expanding my skills. Learning is my truest companion, as I delve into the depths of technology, unraveling its secrets one line at a time.
 
 📞Beyond my prowess in coding, I am also a friendly soul, eager to forge new connections and make friends within the vast realm of developers. Collaboration and camaraderie are the pillars of growth, and I am always open to joining forces with like-minded individuals.
